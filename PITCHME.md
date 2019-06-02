@@ -13,39 +13,21 @@
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
-## Is this even a thing?
++++
+## Is this even a problem now?
 
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width 500>
 
 +++
 
 ## Don't take to long picking out what you need
-
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 
-+++
-
-<span style="font-size: 150%; color:#FFFF00"> Solution: Reach out, found peer groups, developed a mentoring network </span>
-
-<span style="font-size: 150%; color:#FFFF00"> Solution: Time </span> 
-
-→ national data repositories and cloud storage, eventually → https://usgs.entwine.io/
-
-<span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
-
-+++
-
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
-
----
-
-<span style="font-size: 150%; color:#F9FF33"> ...A chance encounter with a guy who liked mangoes. </span>
-
-<img src="https://cdn.uanews.arizona.edu/s3fs-public/styles/2015_story_featured_fp/public/story-images/Merch%201.jpg" height="300">
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
 
