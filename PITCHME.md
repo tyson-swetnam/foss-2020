@@ -31,7 +31,7 @@ Today Key Concepts
 +++
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" width 200><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" width 200>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" width="500"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" width="500">
 
 +++
 
@@ -39,7 +39,7 @@ Today Key Concepts
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
 +++
-<img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width 500>
+<img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
 ## really?
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
