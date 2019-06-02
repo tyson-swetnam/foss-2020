@@ -7,6 +7,21 @@
 
 +++
 
+@snap[north-west]
+Today Key Concepts
+@snapend
+
+@snap[west list-content-verbose span-100]
+@ul
+- Basics of Linux
+- Version Control with Git
+- Internal and External Communication
+- Websites and Documentation
+@ulend
+@snapend
+
++++
+
 ## Why are YOU here?
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
@@ -16,7 +31,7 @@
 +++
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" width 500><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" width 500>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" width 200><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" width 200>
 
 +++
 
