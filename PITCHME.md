@@ -7,16 +7,24 @@
 
 +++
 
-## Why are you here?
+## Why are YOU here?
 
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
 +++
-## Is this even a problem now?
-
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width 500>
+## really?
+
+---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
+@snap[west text-smallcaps text-white]
+Data Science 
+@snapend
+
+@snap[east text-smallcaps text-white]
+Domain Science 
+@snapend
 
 +++
 
@@ -33,18 +41,7 @@
 
 ---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
-
----?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
-@snap[west text-smallcaps text-white]
-Cyberinfrastructure
-@snapend
-
-@snap[east text-smallcaps text-white]
-sUAS
-@snapend
 +++
-
----?image=https://wol-prod-cdn.literatumonline.com/cms/attachment/e4ecd5f8-d7f6-41a1-9984-c23a09db5b33/ecs21797-fig-0003-m.jpg
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
