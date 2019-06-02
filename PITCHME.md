@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
-<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->
+@snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->@snapend
 
 +++
 
