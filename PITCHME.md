@@ -1,19 +1,19 @@
----?image=https://media.giphy.com/media/iFdLJEHEHaSNG/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#000000"> Foundations of Open Source Science 
+---?image=https://media.giphy.com/media/2gkYgYeACrLbi/giphy.gif
+<span style="font-weight: bold; font-size: 200%; color:#ffffff"> Foundations of Open Source Science 
 
-<span style="font-weight: bold; font-size: 100%; color:#000000"> June 2, 2019 </span> 
+<span style="font-weight: bold; font-size: 100%; color:#ffffff"> June 2, 2019 </span> 
 
-<span style="font-weight: bold; font-size: 120%; color:#000000"> Tyson L. Swetnam </span>
+<span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
 
 +++
 
 ## Why are you here?
 
-<img src="<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
+<img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
-+++
+---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
-## Really, is that even a thing still?
+## Is this even a thing?
 
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width 500>
 
@@ -23,12 +23,7 @@
 
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
 
-+++
-
-+++
-
-<span style="font-size: 250%; color:#FF0000"> Challenges: </span> 
-
+---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 
 +++
 
@@ -41,9 +36,6 @@
 <span style="font-size: 150%; color:#FF0000"> Failure: Self-taught → Time wasted </span>
 
 +++
-
----?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-<span style="font-size: 200%; color:#FFFFFF"> BIG DATA </span>
 
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 
