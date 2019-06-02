@@ -1,6 +1,6 @@
 ---?image=https://media.giphy.com/media/2gkYgYeACrLbi/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#ffffff"> Foundations of Open Source Science 
-
+<span style="font-weight: bold; font-size: 200%; color:#ffffff"> Foundations of Open Source Science </span> 
+  
 <span style="font-weight: bold; font-size: 100%; color:#ffffff"> June 2, 2019 </span> 
 
 <span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
@@ -8,10 +8,20 @@
 +++
 
 ## Why are YOU here?
-
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
+<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->
+
++++
+
+##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" width 500><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" width 500>
+
++++
+
+## Change can be scary, at first.
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
 +++
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width 500>
@@ -45,10 +55,6 @@ Domain Science
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
-
----?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
-
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Workflow, Will Travel
