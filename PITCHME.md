@@ -168,9 +168,15 @@ Project Management
 ---
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+@snap[north text-white]
+Next ...
+@snapend
+
 @snap[south text-white]
 Peer Review
 @snapend
+
++++
 
 ## Acknowledgments
 
