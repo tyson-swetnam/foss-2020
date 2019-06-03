@@ -11,7 +11,7 @@
 Today Key Concepts
 @snapend
 
-@snap[west list-content-verbose span-100]
+@snap[west list-content-verbose span-100 text-white]
 @ul
 - Basics of Linux
 - Version Control with Git
@@ -34,10 +34,56 @@ Today Key Concepts
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
+
++++
+@snap[north-west]
+Basics of Linux
+@snapend
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+- Pro: Open Source (Free!)
+- Pro: Infinitely Customizable 
+- Con: Difficult to use (at first)
+- Con: Dependencies
+@ulend
+@snapend
+
++++
+[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+
+**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
+
+<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+
 +++
 
-## Change can be scary, at first.
+*different OS + third party software + updates/upgrades + redeployment* → 
+ <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
+ 
+<img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
+
+ <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
+
++++
+
+## Change is scary
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
+
++++
+
+@snap[north-west]
+Version Control with Git
+@snapend
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+- Pro: Reproducibility, Redundancy
+- Pro: Collaboration
+- Con: Difficult to use (at first)
+- Con: Dependencies
+@ulend
+@snapend
 
 +++
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
@@ -70,18 +116,12 @@ Domain Science
 +++
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> Peer Review </span>
+@snap[south-east]
+Peer Review
+@snapend
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
-# Have Workflow, Will Travel
-
-+++
-
-[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
-
-**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
-
-<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+# Have Data, Will Travel
 
 +++
 
