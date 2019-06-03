@@ -100,23 +100,37 @@ Domain Science
 
 +++
 
-## Don't take to long picking out what you need
+@snap[north-west]
+Productivity Software
+@snapend
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+- Slack vs Gitter 
+- GitHub vs GitLab
+- ReadTheDocs vs Bookdown vs GitHub Pages
+- QUBES vs Protocols.io
+@ulend
+@snapend
+
++++
+## Don't take to long 
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
+### Pick what your team needs and go
+
++++
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+### Welcome to the digital world
 
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 
----?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
-
----?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
-
 +++
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-@snap[south-east]
+@snap[south text-white]
 Peer Review
 @snapend
 
