@@ -124,14 +124,27 @@ Productivity Software
 ### Welcome to the digital world
 
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
+@snap[south text-white]
+Yep.
+@snapend
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+@snap[north text-white]
+Don't Panic
+@snapend
 
 +++
 
----?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-@snap[south text-white]
-Peer Review
+@snap[north-west]
+Project Management
+@snapend
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+- Communication - Slack or Gitter
+- Collaboration - Git
+- Documentation - ReadTheDocs or Bookdown or Protocols.io
+@ulend
 @snapend
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
@@ -153,6 +166,11 @@ Peer Review
 <span style="font-size: 200%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
 
 ---
+
+---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+@snap[south text-white]
+Peer Review
+@snapend
 
 ## Acknowledgments
 
