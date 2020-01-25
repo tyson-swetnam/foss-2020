@@ -1,8 +1,6 @@
 # foss-2020
 
-A [GitPitch](https://gitpitch.com) Slideshow, original FOSS 2019. Updated for FOSS 2020.
-
-[![Start GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/foss-2020/master) 
+A [GitPitch](https://gitpitch.com) Slideshow, original FOSS 2019. Updated for FOSS 2020. Click Me [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/foss-2020/master) 
 
 ## Date: 2020-02-17
 
