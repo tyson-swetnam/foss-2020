@@ -4,3 +4,5 @@ theme: moon
 transition: fade
 background-size : "99% 99%"
 footnote : "CyVerse - <a href='https://cyverse.org'>Learn More</a>"
+theme-override : assets/css/PITCHME.css
+
