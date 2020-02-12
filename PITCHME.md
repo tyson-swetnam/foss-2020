@@ -8,32 +8,6 @@
 @fa[quote-graphql font-montserrat text-white text-15](Tyson L. Swetnam)
 @snapend
   
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north span-33 text-center] 
-@fa[quote-graphql font-montserrat text-white text-16](Key @fa[key] Concepts)
-@snapend
-
-@snap[north-west span-33 fragment]
-@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
-@snapend    
- 
-@snap[midpoint span-33 fragment]
-@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
-@snapend
-
-@snap[north-east span-33 fragment]
-@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
-@snapend
-
-@snap[south-west span-33 fragment]
-@box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
-@snapend
-
-@snap[south-east span-33 fragment]
-@box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
-@snapend
-
 ---?image=https://media.giphy.com/media/eexxV3Q2N485XZO0VS/giphy.gif
 
 @fa[quote-graphql font-montserrat text-white text-24](The Fourth Industrial Revolution)  
@@ -62,11 +36,48 @@ Electronics, automation
 @snap[south-east span-50 fragment text-06 text-white]
 #### 4th Revolution
 Artificial Intelligence & Big Data
-<img src="https://media.giphy.com/media/87kcVw4PjxGr6/source.gif" height="200"> 
+<img src="https://media.giphy.com/media/3o6EhQHTomagYryfaU/giphy.gif" height="200"> 
 @snapend 
 
-@snap[north-east span-50 fragment]
-<img src="https://media.giphy.com/media/RibXrbDgN4QVQ5UFuk/giphy.gif" height="200">
+@snap[south-east span-50 fragment]
+<img src="https://media.giphy.com/media/f0KOVX18PHXz2/giphy.gif" height="210">
+@snapend
+
+@snap[south-east span-50 fragment]
+## 2015
+@snapend
+
+@snap[south-east span-50 fragment]
+<img src="https://media.giphy.com/media/87kcVw4PjxGr6/source.gif" height="210"> 
+@snapend
+
+@snap[south-east span-50 fragment]
+## 2019
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 text-white]
+### What do we require to be successful?
+@snapend
+
+@snap[west span-33 fragment font-montserrat text-white]
+<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="150">
+Money? 
+@snapend
+
+@snap[midpoint span-33 fragment font-montserrat text-white]
+<img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" height="150">
+Talent?
+@snapend
+
+@snap[east span-33 fragment font-montserrat text-white]
+<img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" height="150">
+Information?
+@snapend
+
+@snap[south span-100 fragment font-montserrat text-white text-center]
+[Access to Information](https://en.wikipedia.org/wiki/Access_to_information) is key to overcoming inequality & ignorance.
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -88,11 +99,6 @@ Artificial Intelligence & Big Data
 @box[](Wisdom # Low Risk to Decision Making) 
 @snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-# Access to information 
-(https://en.wikipedia.org/wiki/Access_to_information)
-
 ---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
 
 @snap[midpoint span-100 text-center] 
@@ -111,7 +117,6 @@ Artificial Intelligence & Big Data
 
 ### Data are everywhere
 
-
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west span-50 font-montserrat text-bold text-yellow text-15]
@@ -119,7 +124,7 @@ Open Source vs Academia
 @snapend
 
 @snap[west h3-white span-50 font-montserrat text-bold text-white text-15]
-@fa[twitter] @fperez_org
+@fa[twitter] Fernando Perez @fperez_org
 @snapend
 
 @snap[north-east span-50]
@@ -133,18 +138,32 @@ Contrast in culture & incentives @fa[twitter] @fperez_org
 @snapend
 
 @table[table-header table-fragment text-07 text-white](assets/fperez.csv)
-  
+
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north span-100 text-yellow text-11 font-montserrat]
-Working with big data yet?
+@snap[north span-33 text-center] 
+@fa[quote-graphql font-montserrat text-white text-16](Key @fa[key] Concepts)
 @snapend
 
-@snap[midpoint span-100]
-<img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
+@snap[north-west span-33 fragment]
+@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
+@snapend    
+ 
+@snap[midpoint span-33 fragment]
+@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
 @snapend
 
----?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png 
+@snap[north-east span-33 fragment]
+@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
+@snapend
+
+@snap[south-west span-33 fragment]
+@box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
+@snapend
+
+@snap[south-east span-33 fragment]
+@box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -192,13 +211,26 @@ Maybe, this is the place you're in right now
 ## The Curse of Knowledge
 @snapend
 
-@snap[midpoint span-100 text-white]
-How many of you really know about Linux?
+@snap[west span-50 text-white fragment]
+Have you used Linux before? @fab[linux fa-2x]
 @snapend
+
+@snap[south-west span-50 fragment text-white]
+What does ``sudo`` mean?
+<img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="100">
+@snapend
+
+@snap[   east span-50 fragment text-white fragment]
+Where is the ``pipe`` key on your keyboard?
+```bash
+	ls -a | wc -l
+```
+@snapend
+
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-##### web, cloud, & HPC are dominated by Linux & derivatives
+##### mobile, edge, cloud, & High Performance Computing are dominated by Linux & its  derivatives
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
@@ -207,7 +239,7 @@ How many of you really know about Linux?
 
 @snap[north span-100 text-white]
 
-### Strengths and Weaknesses
+### Strength and Weakness
 
 @fab[ubuntu fa-2x] @fab[linux fa-2x] @fab[centos fa-2x]
 @snapend
@@ -217,7 +249,7 @@ How many of you really know about Linux?
 @snapend
 
 @snap[south-west span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # Different)
+@box[bg-orange text-white rounded box-padding](Con # Package Dependencies)
 @snapend
 
 @snap[midpoint span-33 fragment]
@@ -225,7 +257,7 @@ How many of you really know about Linux?
 @snapend
 
 @snap[south span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # Dependencies)
+@box[bg-orange text-white rounded box-padding](Con # Almost infinite customization)
 @snapend
 
 @snap[east span-33 fragment]
@@ -233,10 +265,10 @@ How many of you really know about Linux?
 @snapend
 
 @snap[south-east span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # Tech Support @fab[fa-ban fa-sm])
+@box[bg-orange text-white rounded box-padding](Con # Technical Support @fab[fa-ban fa-sm])
 @snapend
 
----?color=linear-gradient(80deg, white 80%, gray)
+---?color=gray 
 
 #### THE FILE SYSTEM
 
@@ -248,149 +280,209 @@ How many of you really know about Linux?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north-west]
-### Selecting Productivity Software
-@snapend
+### Version Control
 
-@snap[west list-content-verbose span-33 text-white]
-#### Version Control
-@ul
-- GitHub @fab[github fa-2x] 
-- GitLab @fab[gitlab fa-2x]
-@ulend
-@snapend
+[@fab[github fa-6x]](https://github.com)  
+[@fab[gitlab fa-6x]](https://gitlab.com)
 
-@snap[east list-content-verbose span-50 text-white]
-#### Issue (task) Tracking
-@ul
-- JIRA @fab[jira fa-2x]
-- ZenHub @fab[om fa-2x]
-- GitHub @fab[github fa-2x]
-@ulend
-@snapend
-
----
-
-### Don't take too long deciding
-<img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
-### Determine your needs, what you like, and GO!
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north-west]
-## Using Containers
+@snap[north list-content-verbose span-100 text-white]
+### Strength and Weakness
+@snapend
+
+@snap[west list-content-verbose span-45 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Reproducibility   )
+@snapend
+
+@snap[south-west list-content-verbose span-45 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Difficult (at first))
+@snapend
+
+@snap[east list  -content-verbose span-45 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Collaboration)
+@snapend 
+
+@snap[south-east  list-content-verbose span-45 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Dependencies)
+@snapend 
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west list-content-verbose span-60 text-white]
+### Project Management: Waterfall vs Agile 
+@snapend
+
+@snap[south-west]
+<img src="https://media.giphy.com/media/gK99k8iMtKeJ2/giphy.gif" height="400">
+@snapend
+@snap[south-east text-04 span-60 text-left]
+<img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/waterfall%402x.png?itok=oh19iuGa" height="330">
+image credit: www.smartsheet.com
+@snapend
+@snap[north-east]
+<img src="https://media.giphy.com/media/wQeVeUYipsddS/giphy.gif" height="230">
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+@snap[north-west list-content-verbose span-50 text-white]
+### Project Management: Issue Tracking
+@snapend
+
+@snap[south-west text-04 span-70]
+<img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/kanban-board%402x.png?itok=4DkhWdw5" height="300">
+image credit: www.smartsheet.com
+@snapend
+
+@snap[north-east span-50 font-montserrat text-bold]
+JIRA [@fab[jira fa-4x]](https://support.atlassian.com/jira-core-cloud/)
+@snapend
+
+@snap[south-east span-50 font-montserrat text-bold]
+ZenHub [@fab[github-alt fa-4x]](v https://www.zenhub.com/)
+@ulend
+@snapend
+
+@snap[east span-40 font-montserrat text-16 text-white text-bold]
+Kanban 
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100]
+## Project Management: Containers
+@snapend
+
+@snap[east span-33]
+[@fab[docker fa-6x]](https://docker.com)
+ @snapend
+
+@snap[midpoint span-33]
+<img src="https://www.pngkey.com/png/full/246-2467736_the-leading-product-in-this-space-is-kubernetes.png" height="200"> 
+ @snapend
+
+@snap[west span-33] 
+<img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="200"> 
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 *different OS + third party software + updates/upgrades + redeployment* → 
- <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
- 
+ <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span>  
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Containerize software run it anywhere 
-@fab[docker fa-4x]
-
-<img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
-
----?color=linear-gradient(80deg, gray 60%, white)
+---?color=linear-gradient(80deg, gray 10%, black) 
 
 @snap[north span-100]
 ## Why do we use Containers?
 @snapend
-@snap[midpoint span-100 text-white]
+@snap[south-west span-50 text-white text-10 font-montserrat]
 @ul[fragment]
 - Dependencies turn into wicked problems 
 - Compiling software is sloooowww 
 - Reproducibility is hard across platforms 
-- Portability & _Scalability
+- Portability & Scalability
 @ulend
 @snapend
 
-@snap[south span-100]
-<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/docker-logo.png" height="150"> <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" height="150">
-@snapend
+
+@snap[south-east span-50]
+<img src="https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif" height="300">
 
 ---?image=assets/imagery/FOSS.jpeg
-
----?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-### Building containers, workflows, or pipelines takes TIME & EXPERIENCE
-
-<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
-
-**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
-
-<img src="https://i.pinimg.com/originals/4c/f4/21/4cf421fb9752221d20405e249f3ebab2.jpg" width="700">
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Version Control
-
-@fab[github fa-6x]
-
----
-
-@snap[north-west]
-Version Control with Git
-@snapend
-
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Pro: Reproducibility, Redundancy
-- Pro: Collaboration
-- Con: Difficult to use (at first)
-- Con: Dependencies
-@ulend
-@snapend
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
 @snap[north text-white]
 Don't Panic
 @snapend
 
----
+---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west]
-# Intra group communication
+## [Project Management: Intra-group communication](https://learning.cyverse.org/projects/cyverse-foss-2020/en/latest/reproducible_science/communication.html)
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Communication - Slack or Gitter
-- Collaboration - Git
-- Documentation - ReadTheDocs or Bookdown or Protocols.io
-@ulend
+@snap[north-west span-50]
+### SLACK
+[@fab[slack fa-4x]](https://slack.com) 
 @snapend
 
----?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
+@snap[south-west text-white]
+### Microsoft Teams
+[@fab[windows fa-4x]](https://products.office.com/en-us/microsoft-teams/group-chat-software) 
+@snapend
 
-# Have Data, Will Travel
+@snap[north span-50]
+### MASTODON
+[@fab[mastodon fa-4x]](https://mastodon.social/about)
+@snapend
+
+@snap[south-east text-white]
+### Mattermost
+<img src="https://image.flaticon.com/icons/png/512/906/906391.png" height="120">
+@snapend
+
+@snap[north-east span-50]
+### GITTER
+[@fab[github-alt fa-4x]](https://gitter.com)
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north-west span-66 font-montserrat text-bold text-15 text-yellow]
-Social Media & Science Communication
+@snap[north span-100]
+### Strength and Weakness
 @snapend
+
+@snap[west list-content-verbose span-45 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Share links, files, images, code)
+@snapend
+
+@snap[south-west list-content-verbose span-45 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Distraction, FOMO, organization of teams)
+@snapend
+
+@snap[east list  -content-verbose span-45 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Informal Communication, replace email)
+@snapend 
+
+@snap[south-east  list-content-verbose span-45 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con #  $$$ Paid Plans)
+@snapend 
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100 font-montserrat text-bold text-yellow]
+### Project Management: Science Communication
+@snapend 
+
+@snap[midpoint]
+[@fab[medium fa-6x]](https://medium.com)
+#### Medium
+@snapend
+
+@snap[west]
+[@fab[blogger fa-6x]](https://www.blogger.com/)
+#### BLOGGER
+@snapend
+
+@snap[east]
+[@fab[twitter fa-6x]](https://twitter.com)
+#### Science Twitter
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[west h3-white span-70]
 ### @fa[twitter] Twitter
 @snapend
 
-@snap[south-west span-66 fragment]
+@snap[north-west span-66 fragment]
 <img src="https://media.giphy.com/media/b3mSVYbDLvow8/giphy.gif" width=600>
 @snapend
 
@@ -417,8 +509,7 @@ Social Media & Science Communication
 @snapend
 
 @snap[south-west span-100]
-### Benefits
-@ul[fragment]
+@ul[fragment text-white]
 - Follow other scientists
 - Share research achievements (_in real time_)
 - Reach the public (_and your program officers_)
@@ -453,7 +544,7 @@ source: https://www.sciencemag.org/news/2018/08/scientists-do-you-want-succeed-t
   @tweet[https://twitter.com/KHayhoe/status/1220751351577292800]
 @snapend
 
-@snap[south-west span-100]
+@snap[south span-100]
 ### Beware: Trolls, Sea Lions, Bots
 @snapend
 
@@ -475,23 +566,23 @@ source: https://www.sciencemag.org/news/2018/08/scientists-do-you-want-succeed-t
 credit: David Malki "The Terrible Sea Lion"
 @snapend
 
-@snap[north span-50 text-10]
+@snap[north span-50 text-10 text-white]
 @ul[fragment]
 - Ignore or block strange posters
 - Report abusive and aggressive accounts
 @ulend
 @snapend
 
-@snap[south-west span-50 text-10]
+@snap[south-west span-50 text-10 text-white]
 @ul[fragment]
-- Avoid prolonged conversations
-- Large accounts retweet to their followers
+- Avoid prolonged conversation
+- Large accounts retweet @ their followers
 @ulend
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[west h3-white span-25]
+@snap[west h3-white span-33]
 ### @fa[twitter] The Ugly
 @snapend
 
@@ -499,7 +590,7 @@ credit: David Malki "The Terrible Sea Lion"
   @tweet[https://twitter.com/dgonzales1990/status/1223357607655636993]
 @snapend
 
-@snap[north-west span-25]
+@snap[north-west span-33]
 <img src="https://media.giphy.com/media/l0IynvPneUpb7SnBe/giphy.gif" width=300>
 @snapend
 
@@ -507,17 +598,156 @@ credit: David Malki "The Terrible Sea Lion"
   @tweet[https://twitter.com/TishaBohr/status/1161490875085729794]
 @snapend
 
-@snap[south-west font-montserrat text-09 span-100 fragment text-yellow]
-Statements like: "**RT≠endorsement**" or "**thoughts my own, not my employer's**" in your profile are _*meaningless*_ to administrators.  
+@snap[south span-100 fragment]
+@box[bg-gold text-white rounded box-padding](RETWEET ≠ ENDORSEMENT # "_*thoughts my own, not my employers*_" in your personal profile are **_*meaningless*_** to administrators & your tenure committee)
+@snapend 
+
+@snap[north span-100 fragment]
+@box[bg-pink text-white rounded box-padding](INTERNET = FOREVER # What you posted in your teens or 20s is still out there)
+@snapend 
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## Documentation
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100]
+### External Documentation
+@snapend
+
+@snap[west span-50]
+![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg)
+@snapend
+
+@snap[east span-50]
+<img src="https://www.r-project.org/logo/Rlogo.png" height=150> <img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>
+@snapend
+
+@snap[south span-100 text-white font-montserrat]
+@ul
+- Use GitHub for Version Control
+- MarkDown Text Syntax
+- Render as HMTL, PDF, EPub
+@ulend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100]
+### Internal Documentation
+@snapend
+
+@snap[west span-50]
+@fab[confluence fa-2x] 
+@snapend
+
+@snap[east span-50]
+@fab[gitlab fa-2x] @fab[github fa-2x]
+@snapend
+
+@snap[south span-100 text-white font-montserrat]
+@ul
+- Wiki Style Docs
+- Protocols
+- Issue Support
+@ulend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+## Community Groups
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 text-center text-white text-14]
+@fa[quote-graphql font-montserrat](Research Bazaar Arizona) 
+@snapend
+
+@snap[midpoint span-100 text-center text-white text-14]
+
+<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
+@snapend
+
+@snap[south span-100 text-center text-white text-14]
+@fab[windows fa-sm] @fab[r-project fa-sm] @fab[python fa-sm] @fab[docker fa-sm] @fab[slack fa-sm] 
+@fab[apple fa-sm] @fab[github fa-sm] @fab[linux fa-sm] @fab[ubuntu fa-sm] @fab[centos fa-sm] 
+@fab[rebel fa-sm] @fab[confluence fa-sm] @fab[jenkins fa-sm] @fab[superpowers fa-sm] @fab[empire fa-sm] 
+@fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
+@snapend
+
+@snap[west fragment text-white span-33]
+@fa[coffee]
+@fa[quote-graphql font-montserrat text-06 text-white](Tuesday 8-10AM BSRL Building)
+@snapend
+
+@snap[east fragment text-white span-33]
+@fa[beer]
+@fa[quote-graphql font-montserrat text-06 text-white](Thursday 4-6PM @Gentle Bens)
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Documentation
+# Cyberinfrastructure
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+##### PRIVATE CLOUD SERVICES
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+##### PUBLIC CLOUD SERVICES
+<img src="/assets/imagery/cyverse_white.png" height="175">
+<img src="/assets/imagery/xsede.png" height="175">
+
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Cyberinfrastructure
+@snap[north-west span-50 text-white]
+[@img[span-100](https://www.xsede.org/image/layout_set_logo?img_id=1478827&t=1574800172821)](https://www.xsede.org) 
+@box[](High Performance Computing # )
+@snapend
+
+@snap[north-east span-50]
+[@img[span-75](https://www.renci.org/wp-content/uploads/2008/10/osg_logo.png)](https://opensciencegrid.org/)
+@snapend
+
+@snap[west span-50 text-white]
+[@img[](https://www.tacc.utexas.edu/documents/1084364/1620941/2018-Frontera_black.png)](https://www.tacc.utexas.edu/use-tacc/getting-started)
+[@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)](https://www.tacc.utexas.edu/)
+@snapend
+
+@snap[east span-50 text-white]
+@box[](High Throughput Computing # )
+@snapend
+
+@snap[south span-100 text-12 font-montserrat text-white]
+Trouble getting access? <img src="https://media.giphy.com/media/5JxCsjF3IDvLW/giphy.gif" height="170"> 
+
+Sign up for a free [XSEDE Portal Account](https://portal.xsede.org/)
+@snapend
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+#### Data Management Systems </span>
+
+CyberGIS (Google Earth Engine)<!-- .element: class="fragment" -->
+
+Databases and Services (PostGIS, Postgresql, THREDDS, FTP, HTTPS, iRODS, Clowder) <!-- .element: class="fragment" -->
+
+Cloud Object Storage (S3, GCP, Azure) <!-- .element: class="fragment" -->
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+<span style="font-weight: bold; font-size: 150%; color:#FFFFFF">  Workflow Management Systems </span>
+
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
+
+---?color=linear-gradient(80deg, black 10%, gray)
+
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
@@ -541,71 +771,6 @@ Statements like: "**RT≠endorsement**" or "**thoughts my own, not my employer's
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north span-100]
-<img src="/assets/imagery/cyverse_white.png" height="100">
-@snapend
-
-@snap[west span-33 text-white]
-@box[](Data Store)
-@ol[text-08]
-- Host up to 10TB
-- Cloud Storage
-- Share with colleagues
-@olend
-@snapend
-
-@snap[midpoint span-33 text-white]
-@box[](Discovery Environment)
-@ol[text-08]
-- RStudio & Jupyter Notebooks
-- Share Analyses
-- Batch Processing
-@olend
-@snapend
-
-@snap[east span-33 text-white]
-@box[](Cloud Native Services)
-@ol[text-08]
-- Virtual Machines
-- Run Jobs
-- Run Services
-@olend
-@snapend 
-
-@snap[south span-100]
-[Sign up here](https://user.cyverse.org)
-@snapend
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north-west span-50]
-[@img[span-100](https://www.xsede.org/image/layout_set_logo?img_id=1478827&t=1574800172821)](https://www.xsede.org) 
-@snapend
-
-@snap[north-east span-50]
-[@img[span-75](https://www.renci.org/wp-content/uploads/2008/10/osg_logo.png)](https://opensciencegrid.org/)
-@snapend
-
-@snap[west span-50 text-white]
-[@img[](https://www.tacc.utexas.edu/documents/1084364/1620941/2018-Frontera_black.png)](https://www.tacc.utexas.edu/use-tacc/getting-started)
-[@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)](https://www.tacc.utexas.edu/)
-@snapend
-
-@snap[east span-50 text-white]
-@box[](High Throughput Computing)
-@ol[text-08]
-- Run Jobs from CyVerse
-@olend
-@snapend
-
-@snap[south span-100]
-Having trouble getting access? <img src="https://media.giphy.com/media/5JxCsjF3IDvLW/giphy.gif" height="150"> 
-
-Sign up for an [XSEDE Portal Account](https://portal.xsede.org/)
-@snapend
-
----?color=linear-gradient(80deg, gray 10%, black)
-
 In closing
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
@@ -617,6 +782,28 @@ Data Science
 @snap[east text-smallcaps text-white]
 Domain Science 
 @snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+
+### Don't take too long deciding
+<img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
+### Determine your needs, what you like, and GO!
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+### Building containers, workflows, or pipelines takes TIME & EXPERIENCE
+
+<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+
+**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
+
+<img src="https://i.pinimg.com/originals/4c/f4/21/4cf421fb9752221d20405e249f3ebab2.jpg" width="700">
+
 ---
 
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
@@ -647,15 +834,45 @@ Technology is like **milk** (you want it fresh)
 @ulend
 @snapend
 
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-100 text-yellow text-11 font-montserrat]
+Working with big data yet?
+@snapend
+
+@snap[midpoint span-100]
+<img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
+@snapend
+
+---?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png 
+
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 @snap[south text-white fragment]
 Yep.
 @snapend
 
-## Acknowledgments
+---?color=linear-gradient(80deg, gray 10%, black)
 
-GIFs by Giphy.com
+Acknowledgements
 
-All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/lemon-labs/PITCHME.md 
+All images shown in this presentation are in the public domain or are property of their credited creators. The web address of each image is visible in the presentation at: https://github.com/tyson-swetnam/FOSS-2020/
 
----?image=assets/imagery/endslide.png
+---?color=linear-gradient(80deg, black, #567AD2)
+
+CyVerse is funded entirely by the National Science Foundation under Award Numbers [DBI-0735191](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191), [DBI-1265383](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383), and [DBI-1743442](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442&HistoricalAwards=false).
+
+@snap[south span-45]
+[@img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)](https://www.arizona.edu/)
+@snapend
+
+@snap[north span-33]
+[@img[span-50](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)](https://www.nsf.gov/)
+@snapend
+
+@snap[south-west span-33]
+[@img[](https://www.tacc.utexas.edu/documents/1084364/1275944/tacc.png)](https://www.tacc.utexas.edu/)
+@snapend
+
+@snap[south-east span-33]
+[@img[span-100](https://www.cshl.edu/wp-content/uploads/2018/07/cshl_logo_alternate-RGB_KO.png)](https://www.cshl.edu/)
+@snapend
