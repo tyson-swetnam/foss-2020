@@ -501,7 +501,7 @@ Don't Panic
 @snapend
 
 @snap[north span-33]
-  @tweet[https://twitter.com/CyVerseOrg/status/1217927779326447619]
+  @tweet[https://twitter.com/JasonWilliamsNY/status/1224709798920425472]
 @snapend
 
 @snap[north-east span-33]
