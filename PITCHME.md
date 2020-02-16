@@ -62,22 +62,18 @@ Artificial Intelligence & Big Data
 @snapend
 
 @snap[west span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="150">
+<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" width="250">
 Money? 
 @snapend
 
 @snap[midpoint span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" height="150">
+<img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="250">
 Talent?
 @snapend
 
 @snap[east span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" height="150">
+<img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" width="250">
 Information?
-@snapend
-
-@snap[south span-100 fragment font-montserrat text-white text-center]
-[Access to Information](https://en.wikipedia.org/wiki/Access_to_information) is key to overcoming inequality & ignorance.
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -208,11 +204,11 @@ Maybe, this is the place you're in right now
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @snap[north span-100]
-## The Curse of Knowledge
+## The Curse of Knowledge @fab[linux]
 @snapend
 
 @snap[west span-50 text-white fragment]
-Have you used Linux before? @fab[linux fa-2x]
+Have you used Linux before? 
 @snapend
 
 @snap[south-west span-50 fragment text-white]
@@ -220,13 +216,16 @@ What does ``sudo`` mean?
 <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="100">
 @snapend
 
-@snap[   east span-50 fragment text-white fragment]
+@snap[east span-50 fragment text-white fragment]
 Where is the ``pipe`` key on your keyboard?
+@snapend
+
+@snap[south-east span-50 fragment text-white fragment]
+What is the ``|`` key used for?
 ```bash
 	ls -a | wc -l
 ```
 @snapend
-
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -323,6 +322,47 @@ image credit: www.smartsheet.com
 @snapend
 @snap[north-east]
 <img src="https://media.giphy.com/media/wQeVeUYipsddS/giphy.gif" height="230">
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west list-content-verbose span-60 text-white]
+### Agile 
+@snapend
+
+@snap[south-west text-04 span-50]
+[the manifesto](https://agilemanifesto.org/)
+@snapend
+
+@snap[north span-70 font-montserrat text-white text-08]
+We are uncovering better ways of developing
+software by doing it and helping others do it.
+Through this work we have come to value:
+@snapend
+
+@snap[midpoint span-100 font-montserrat text-white text-08]
+@ul[](fals)
+- **Individuals and interactions** over processes and tools 
+- **Working software** over comprehensive documentation 
+- **Customer collaboration** over contract negotiation 
+- **Responding to change** over following a plan
+@ulend
+@snapend
+
+@snap[south span-70 font-montserrat text-white text-08]
+That is, while there is value in the items on
+the right, we value the items on the left more.
+@snapend
+
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west list-content-verbose span-60 text-white]
+### Agile 
+@snapend
+
+@snap[north-east span-100 font-montserrat text-white text-08]
+<img src="https://i0.wp.com/jordanjob.me/wp-content/uploads/2015/12/Scrum-Diagram-JordanJob.me_.png" height="600">
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -501,7 +541,7 @@ Don't Panic
 @snapend
 
 @snap[north span-33]
-  @tweet[https://twitter.com/JasonWilliamsNY/status/1224709798920425472]
+  @tweet[https://twitter.com/CyVerseOrg/status/1217927779326447619]
 @snapend
 
 @snap[north-east span-33]
@@ -664,7 +704,7 @@ credit: David Malki "The Terrible Sea Lion"
 
 @snap[midpoint span-100 text-center text-white text-14]
 
-<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">
+<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="300">
 @snapend
 
 @snap[south span-100 text-center text-white text-14]
@@ -686,21 +726,25 @@ credit: David Malki "The Terrible Sea Lion"
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+[<img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">](https://carpentries.org)
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
 # Cyberinfrastructure
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
 ##### PRIVATE CLOUD SERVICES
-<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">
-<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">
-<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">
+[<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">](https://aws.amazon.com/)
+[<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">](https://azure.microsoft.com/en-us/)
+[<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">](https://cloud.google.com/)
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
 ##### PUBLIC CLOUD SERVICES
-<img src="/assets/imagery/cyverse_white.png" height="175">
-<img src="/assets/imagery/xsede.png" height="175">
 
+[<img src="/assets/imagery/cyverse_white.png" height="175">](https://cyverse.org)
+[<img src="/assets/imagery/xsede.png" height="275">](https://portal.xsede.org/my-xsede)
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -725,7 +769,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snap[south span-100 text-12 font-montserrat text-white]
 Trouble getting access? <img src="https://media.giphy.com/media/5JxCsjF3IDvLW/giphy.gif" height="170"> 
 
-Sign up for a free [XSEDE Portal Account](https://portal.xsede.org/)
+Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 @snapend
 
 ---?color=linear-gradient(80deg, black 10%, gray)
@@ -745,6 +789,9 @@ Cloud Object Storage (S3, GCP, Azure) <!-- .element: class="fragment" -->
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
+#### Workflow Management Systems
+
+<img src="https://www.pngkey.com/png/full/246-2467736_the-leading-product-in-this-space-is-kubernetes.png" height="200"> 
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
