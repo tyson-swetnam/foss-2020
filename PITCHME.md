@@ -137,32 +137,6 @@ Contrast in culture & incentives @fa[twitter] @fperez_org
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north span-33 text-center] 
-@fa[quote-graphql font-montserrat text-white text-16](Key @fa[key] Concepts)
-@snapend
-
-@snap[north-west span-33 fragment]
-@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
-@snapend    
- 
-@snap[midpoint span-33 fragment]
-@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
-@snapend
-
-@snap[north-east span-33 fragment]
-@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
-@snapend
-
-@snap[south-west span-33 fragment]
-@box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
-@snapend
-
-@snap[south-east span-33 fragment]
-@box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
-@snapend
-
----?color=linear-gradient(80deg, gray 10%, black)
-
 @snap[north span-100 font-montserrat text-15 text-white text-bold]
 Maybe, this is the place you're in right now
 @snapend
@@ -190,7 +164,34 @@ Maybe, this is the place you're in right now
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+
 # FREE YOUR ~~MIND~~ SCIENCE
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north span-33 text-center] 
+@fa[quote-graphql font-montserrat text-white text-16](Key @fa[key] Concepts)
+@snapend
+
+@snap[north-west span-33 fragment]
+@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
+@snapend    
+ 
+@snap[midpoint span-33 fragment]
+@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
+@snapend
+
+@snap[north-east span-33 fragment]
+@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
+@snapend
+
+@snap[south-west span-33 fragment]
+@box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
+@snapend
+
+@snap[south-east span-33 fragment]
+@box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -229,7 +230,7 @@ What is the ``|`` key used for?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-##### mobile, edge, cloud, & High Performance Computing are dominated by Linux & its  derivatives
+##### Why Linux: mobile, edge, cloud, & High Performance Computing are dominated by Linux & its  derivatives
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
@@ -240,11 +241,11 @@ What is the ``|`` key used for?
 
 ### Strength and Weakness
 
-@fab[ubuntu fa-2x] @fab[linux fa-2x] @fab[centos fa-2x]
-@snapend
+@fab[ubuntu fa-2x] @fab[linux fa-2x] @fab[centos fa-2x] @fab[redhat fa-2x]
+@snapend 
 
 @snap[west span-33 fragment]
-@box[bg-green text-white rounded box-padding](Pro # Open Source [FREE!])
+@box[bg-green text-white rounded box-padding](Pro # Availability (Open Source) & Reliability)
 @snapend
 
 @snap[south-west span-33 fragment]
@@ -269,7 +270,7 @@ What is the ``|`` key used for?
 
 ---?color=gray 
 
-#### THE FILE SYSTEM
+####  Why Linux: the file system 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f3/Standard-unix-filesystem-hierarchy.svg)
 
@@ -279,32 +280,55 @@ What is the ``|`` key used for?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-### Version Control
+@snap[north-west span-75]
+### Project Management: Version Control
+@snapend
 
-[@fab[github fa-6x]](https://github.com)  
-[@fab[gitlab fa-6x]](https://gitlab.com)
+@snap[west span-50 text-white font-montserrat]
+Fundamental to 
+@ul
+- modern software development
+- reproducible science
+- data management
+- workflow management
+@ulend
+@snapend
 
+@snap[east span-50]
+[@fab[github fa-4x]](https://github.com)  
+[@fab[gitlab fa-4x]](https://gitlab.com)
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north list-content-verbose span-100 text-white]
 ### Strength and Weakness
+[@fab[github fa-2x]](https://github.com) [@fab[gitlab fa-2x]](https://gitlab.com)
 @snapend
 
-@snap[west list-content-verbose span-45 text-white fragment]
-@box[bg-green text-white rounded box-padding](Pro # Reproducibility   )
+@snap[west list-content-verbose span-33 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Reproducibility)
 @snapend
 
-@snap[south-west list-content-verbose span-45 text-white fragment]
-@box[bg-orange text-white rounded box-padding](Con # Difficult (at first))
+@snap[south-west list-content-verbose span-33 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Difficult to understand)
 @snapend
 
-@snap[east list  -content-verbose span-45 text-white fragment]
-@box[bg-green text-white rounded box-padding](Pro # Collaboration)
+@snap[midpoint list-content-verbose span-33 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Scalability & Sharability)
+@snapend
+
+@snap[south list-content-verbose span-33 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Harder to explain)
+@snapend
+
+@snap[east list-content-verbose span-33 text-white fragment]
+@box[bg-green text-white rounded box-padding span-50](Pro # [![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png)](https://github.com/topics/awesome-list))
 @snapend 
 
-@snap[south-east  list-content-verbose span-45 text-white fragment]
-@box[bg-orange text-white rounded box-padding](Con # Dependencies)
+@snap[south-east  list-content-verbose span-33 text-white text-04 text-right fragment]
+<img src="https://hackernoon.com/hn-images/1*0o9GZUzXiNnI4poEvxvy8g.png" height="450">
+https://xkcd.com/1597/
 @snapend 
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -355,7 +379,7 @@ the right, we value the items on the left more.
 @snapend
 
 
----?color=linear-gradient(80deg, gray 10%, black)
+---?color=linear-gradient(80deg, gray 10%, white)
 
 @snap[north-west list-content-verbose span-60 text-white]
 ### Agile 
@@ -429,7 +453,6 @@ Kanban
 @ulend
 @snapend
 
-
 @snap[south-east span-50]
 <img src="https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif" height="300">
 
@@ -479,19 +502,27 @@ Don't Panic
 ### Strength and Weakness
 @snapend
 
-@snap[west list-content-verbose span-45 text-white fragment]
+@snap[west list-content-verbose span-33 text-white fragment]
 @box[bg-green text-white rounded box-padding](Pro # Share links, files, images, code)
 @snapend
 
-@snap[south-west list-content-verbose span-45 text-white fragment]
-@box[bg-orange text-white rounded box-padding](Con # Distraction, FOMO, organization of teams)
+@snap[south-west list-content-verbose span-33 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # Distraction, FOMO)
 @snapend
 
-@snap[east list  -content-verbose span-45 text-white fragment]
+@snap[south list-content-verbose span-33 text-white fragment]
+@box[bg-orange text-white rounded box-padding](Con # ![](https://media.giphy.com/media/xT1XH27dkv6eIzSaT6/giphy.gif))
+@snapend
+
+@snap[midpoint list-content-verbose span-33 text-white fragment]
+@box[bg-green text-white rounded box-padding](Pro # Emojis @emoji[smile] @emoji[rainbow] @emoji[poop] @emoji[rage])
+@snapend
+
+@snap[east list-content-verbose span-33 text-white fragment]
 @box[bg-green text-white rounded box-padding](Pro # Informal Communication, replace email)
 @snapend 
 
-@snap[south-east  list-content-verbose span-45 text-white fragment]
+@snap[south-east list-content-verbose span-33 text-white fragment]
 @box[bg-orange text-white rounded box-padding](Con #  $$$ Paid Plans)
 @snapend 
 
@@ -646,51 +677,6 @@ credit: David Malki "The Terrible Sea Lion"
 @box[bg-pink text-white rounded box-padding](INTERNET = FOREVER # What you posted in your teens or 20s is still out there)
 @snapend 
 
----?color=linear-gradient(80deg, gray 10%, black)
-
-## Documentation
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north-west span-100]
-### External Documentation
-@snapend
-
-@snap[west span-50]
-![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg)
-@snapend
-
-@snap[east span-50]
-<img src="https://www.r-project.org/logo/Rlogo.png" height=150> <img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>
-@snapend
-
-@snap[south span-100 text-white font-montserrat]
-@ul
-- Use GitHub for Version Control
-- MarkDown Text Syntax
-- Render as HMTL, PDF, EPub
-@ulend
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north-west span-100]
-### Internal Documentation
-@snapend
-
-@snap[west span-50]
-@fab[confluence fa-2x] 
-@snapend
-
-@snap[east span-50]
-@fab[gitlab fa-2x] @fab[github fa-2x]
-@snapend
-
-@snap[south span-100 text-white font-montserrat]
-@ul
-- Wiki Style Docs
-- Protocols
-- Issue Support
-@ulend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -730,11 +716,62 @@ credit: David Malki "The Terrible Sea Lion"
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+## Documentation
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100]
+### External Documentation
+@snapend
+
+@snap[west span-50]
+<img src="https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg" height=150>
+<img src="https://github.blog/wp-content/uploads/2013/08/678ae71c-ba2f-11e2-9505-4e91c63f729c.png" height=150> 
+@snapend
+
+@snap[east span-50]
+<img src="https://www.r-project.org/logo/Rlogo.png" height=150> <img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>
+@snapend
+
+@snap[south-east span-50 text-white font-montserrat]
+@ul
+- @fab[github fa-2x] Pages
+- MarkDown Text Syntax
+- Render as HMTL, PDF, EPub
+@ulend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100]
+### Internal Documentation
+@snapend
+
+@snap[west span-50]
+Kanban Boards @fab[jira fa-2x] 
+@snapend
+
+@snap[south-west span-50]
+Wikis @fab[confluence fa-2x] 
+@snapend  
+
+@snap[east span-50]
+Issue Tracking @fab[gitlab fa-2x] @fab[github fa-2x]
+@snapend
+
+@snap[south span-100 text-white font-montserrat]
+@ul
+- Styled Docs
+- Protocols
+@ulend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
 # Cyberinfrastructure
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
 ##### PRIVATE CLOUD SERVICES
+
 [<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="175">](https://aws.amazon.com/)
 [<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="175">](https://azure.microsoft.com/en-us/)
 [<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">](https://cloud.google.com/)
@@ -773,19 +810,34 @@ Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 @snapend
 
 ---?color=linear-gradient(80deg, black 10%, gray)
-
+@snap[north-west span-50]
 #### Data Management Systems </span>
+@snapend
 
-CyberGIS (Google Earth Engine)<!-- .element: class="fragment" -->
+@snap[west span-33]
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="100"> 
+<img src="https://warlord0blog.files.wordpress.com/2019/03/logo-postgis-1.png" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="100"> 
+@snapend
 
-Databases and Services (PostGIS, Postgresql, THREDDS, FTP, HTTPS, iRODS, Clowder) <!-- .element: class="fragment" -->
+@snap[north-east span-33]
+<img src="https://www.unidata.ucar.edu/images/logos/badges/badge_tds_200.jpg" height="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HDF_logo.svg/1200px-HDF_logo.svg.png" height="100"> 
+@snapend
 
-Cloud Object Storage (S3, GCP, Azure) <!-- .element: class="fragment" -->
+@snap[midpoint span-33]
+<img src="https://docs.irods.org/4.1.4/iRODS-Logo.png" height="100"> 
+@snapend
+
+@snap[south-east span-33]
+<img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png" height="100"> 
+Clowder 
+MongoDB
+@snapend
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
 <span style="font-weight: bold; font-size: 150%; color:#FFFFFF">  Workflow Management Systems </span>
-
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
