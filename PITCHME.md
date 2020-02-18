@@ -725,17 +725,19 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[west span-50]
-<img src="https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg" height=150>
-<img src="https://github.blog/wp-content/uploads/2013/08/678ae71c-ba2f-11e2-9505-4e91c63f729c.png" height=150> 
+[<img src="https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg" height=150>](https://readthedocs.org/)
+
+[<img src="https://github.blog/wp-content/uploads/2013/08/678ae71c-ba2f-11e2-9505-4e91c63f729c.png" height=150>](http://jekyllthemes.org/) 
 @snapend
 
 @snap[east span-50]
-<img src="https://www.r-project.org/logo/Rlogo.png" height=150> <img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>
+<img src="https://www.r-project.org/logo/Rlogo.png" height=150> 
+[<img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>](https://bookdown.org/yihui/bookdown/)
 @snapend
 
 @snap[south-east span-50 text-white font-montserrat]
 @ul
-- @fab[github fa-2x] Pages
+- [@fab[github fa-2x] Pages](https://pages.github.com/)
 - MarkDown Text Syntax
 - Render as HMTL, PDF, EPub
 @ulend
@@ -746,19 +748,20 @@ credit: David Malki "The Terrible Sea Lion"
 ### Internal Documentation
 @snapend
 
-@snap[west span-50]
-Kanban Boards @fab[jira fa-2x] 
+@snap[south-west span-50 text-white font-montserrat]
+Kanban Boards [@fab[jira fa-3x] ](https://zenhub.com)
 @snapend
 
-@snap[south-west span-50]
-Wikis @fab[confluence fa-2x] 
+@snap[midpoint span-50 text-white font-montserrat]
+Wikis [@fab[confluence fa-3x]](https://wiki.cyverse.org) 
 @snapend  
 
-@snap[east span-50]
-Issue Tracking @fab[gitlab fa-2x] @fab[github fa-2x]
+@snap[north-east span-50 text-white font-montserrat]
+Issue Tracking
+@fab[gitlab fa-3x] @fab[github fa-3x]
 @snapend
 
-@snap[south span-100 text-white font-montserrat]
+@snap[west span-100 text-white font-montserrat]
 @ul
 - Styled Docs
 - Protocols
@@ -884,7 +887,6 @@ Domain Science
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-
 ### Don't take too long deciding
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
 ### Determine your needs, what you like, and GO!
@@ -902,11 +904,6 @@ Domain Science
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
 
 <img src="https://i.pinimg.com/originals/4c/f4/21/4cf421fb9752221d20405e249f3ebab2.jpg" width="700">
-
----
-
-<img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
-## really?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -941,13 +938,6 @@ Working with big data yet?
 
 @snap[midpoint span-100]
 <img src="https://media.giphy.com/media/l4HnN3TbBNYZbeEdq/giphy.gif" height="300">
-@snapend
-
----?image=http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png 
-
----?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
-@snap[south text-white fragment]
-Yep.
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
