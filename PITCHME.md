@@ -405,7 +405,7 @@ JIRA [@fab[jira fa-4x]](https://support.atlassian.com/jira-core-cloud/)
 @snapend
 
 @snap[south-east span-50 font-montserrat text-bold]
-ZenHub [@fab[github-alt fa-4x]](v https://www.zenhub.com/)
+ZenHub [@fab[github-alt fa-4x]](https://www.zenhub.com/)
 @ulend
 @snapend
 
@@ -806,8 +806,8 @@ Issue Tracking
 @box[](High Throughput Computing # )
 @snapend
 
-@snap[south span-100 text-12 font-montserrat text-white]
-Trouble getting access? <img src="https://media.giphy.com/media/5JxCsjF3IDvLW/giphy.gif" height="170"> 
+@snap[south-east span-50 text-12 font-montserrat text-white]
+<img src="https://media.giphy.com/media/5JxCsjF3IDvLW/giphy.gif" height="170"> 
 
 Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 @snapend
@@ -837,19 +837,12 @@ Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 Clowder 
 MongoDB
 @snapend
-
----?color=linear-gradient(80deg, black 10%, gray)
-
-<span style="font-weight: bold; font-size: 150%; color:#FFFFFF">  Workflow Management Systems </span>
-
+ 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
 #### Workflow Management Systems
 
 <img src="https://www.pngkey.com/png/full/246-2467736_the-leading-product-in-this-space-is-kubernetes.png" height="200"> 
-
----?color=linear-gradient(80deg, black 10%, gray)
-
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 
