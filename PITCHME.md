@@ -3,7 +3,7 @@
 @snap[north span-100 text-center] 
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 @fa[quote-graphql font-montserrat text-white text-24](Foundations of Open Source Science)
-@fa[quote-graphql font-montserrat text-white text-15](February 17-21, 2020)
+@fa[quote-graphql font-montserrat text-white text-15](August, 2020)
 
 @fa[quote-graphql font-montserrat text-white text-15](Tyson L. Swetnam)
 @snapend
