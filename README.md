@@ -1,10 +1,12 @@
 # foss-2020
 
-A [GitPitch](https://gitpitch.com) Slideshow, original FOSS 2019. Updated for FOSS 2020. Click Me [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/foss-2020/master) 
+A [GitPitch](https://gitpitch.com) Slideshow, original FOSS 2019. Updated for Spring and then Fall FOSS 2020. Click Me [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/foss-2020/master) 
 
-## Date: 2020-02-17
+## Update Date: 2020-07-22
 
-## Location: [Health Sciences Innovation Building](https://goo.gl/maps/sXgMneksfWLu6tpa7), University of Arizona, Tucson, AZ
+## In Person Location: [Health Sciences Innovation Building](https://goo.gl/maps/sXgMneksfWLu6tpa7), University of Arizona, Tucson, AZ
+
+## Remote Location: the cloud
 
 ## Presenter: [Tyson Lee Swetnam](http://tyson-swetnam.github.io/) [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](http://orcid.org/0000-0002-6639-7181)
 
