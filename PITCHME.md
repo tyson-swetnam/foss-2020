@@ -631,7 +631,7 @@ source: https://www.sciencemag.org/news/2018/08/scientists-do-you-want-succeed-t
 @snapend
 
 @snap[north-west span-33]
-<img src="https://readwrite.com/wp-content/uploads/2016/02/MTIyNzYxMTA2MjEyMjkxMTc0.png" width=200> 
+<img src="https://i7.pngguru.com/preview/713/975/770/chatbot-robot-internet-bot-artificial-intelligence-icon-vector-robot.jpg" width=200> 
 @snapend
 @snap[north-east span-25]
 ![GRAPHQL](/assets/imagery/troll.png)
