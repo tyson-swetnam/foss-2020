@@ -493,7 +493,7 @@ Don't Panic
 
 @snap[south-east text-white]
 ### Mattermost
-<img src="https://image.flaticon.com/icons/png/512/906/906391.png" height="120">
+<img src="https://image.flaticon.com/icons/png/512/906/906391.png" height="120" href="https://mattermost.com/">
 @snapend
 
 @snap[north-east span-50]
