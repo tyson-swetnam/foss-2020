@@ -471,6 +471,11 @@ Don't Panic
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
+@snap[south span-50]
+### Discord
+[@fab[discord fa-4x]](https://discord.com) 
+@snapend
+
 @snap[north-west span-50]
 ### SLACK
 [@fab[slack fa-4x]](https://slack.com) 
