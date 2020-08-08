@@ -1,4 +1,6 @@
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[Greeting](assets/audio/slide1.mp3)
+
 
 @snap[north span-100 text-center] 
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
@@ -9,6 +11,7 @@
 @snapend
   
 ---?image=https://media.giphy.com/media/eexxV3Q2N485XZO0VS/giphy.gif
+@audio[admonition](assets/audio/slide2.mp3)
 
 @fa[quote-graphql font-montserrat text-white text-24](The Fourth Industrial Revolution)  
 
@@ -17,20 +20,20 @@
 @snap[north-west span-33 text-06 text-white]
 #### 1st Revolution
 Mechanization, steam and water power 
-<img src="https://media.giphy.com/media/9MIl1iPxLhfzQecFdW/giphy.gif" height="150">
+<img src="https://media.giphy.com/media/9MIl1iPxLhfzQecFdW/giphy.gif" height="200">
 @snapend
 
 @snap[north span-33 fragment text-06 text-right text-white]
 #### 2nd Revolution
 Mass Production & electricity 
-<img src="https://media.giphy.com/media/fwfbJvRNHb5sI/giphy.gif" width="150">
+<img src="https://media.giphy.com/media/fwfbJvRNHb5sI/giphy.gif" width="200">
  
 @snapend
 
 @snap[south-west span-33 fragment text-06 text-white] 
 #### 3rd Revolution
 Electronics, automation 
-<img src="https://media.giphy.com/media/3TcM6usOIc2MU/source.gif" height="180"> 
+<img src="https://media.giphy.com/media/3TcM6usOIc2MU/source.gif" height="200"> 
 @snapend
 
 @snap[south-east span-50 fragment text-06 text-white]
@@ -62,17 +65,17 @@ Artificial Intelligence & Big Data
 @snapend
 
 @snap[west span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" width="280">
 Money? 
 @snapend
 
 @snap[midpoint span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="280">
 Talent?
 @snapend
 
 @snap[east span-33 fragment font-montserrat text-white]
-<img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" width="280">
 Information?
 @snapend
 
@@ -115,28 +118,6 @@ Information?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north-west span-50 font-montserrat text-bold text-yellow text-15]
-Open Source vs Academia
-@snapend
-
-@snap[west h3-white span-50 font-montserrat text-bold text-white text-15]
-@fa[twitter] Fernando Perez @fperez_org
-@snapend
-
-@snap[north-east span-50]
-  @tweet[https://twitter.com/sidneymbell/status/1218272654710325248]
-@snapend
-
----?color=linear-gradient(80deg, gray 10%, black)
-
-@snap[north-west span-100 font-montserrat text-bold text-yellow text-08]
-Contrast in culture & incentives @fa[twitter] @fperez_org
-@snapend
-
-@table[table-header table-fragment text-07 text-white](assets/fperez.csv)
-
----?color=linear-gradient(80deg, gray 10%, black)
-
 @snap[north span-100 font-montserrat text-15 text-white text-bold]
 Maybe, this is the place you're in right now
 @snapend
@@ -166,6 +147,28 @@ Maybe, this is the place you're in right now
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 
 # FREE YOUR ~~MIND~~ SCIENCE
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-50 font-montserrat text-bold text-yellow text-15]
+Open Source vs Academia
+@snapend
+
+@snap[west h3-white span-50 font-montserrat text-bold text-white text-15]
+@fa[twitter] Fernando Perez @fperez_org
+@snapend
+
+@snap[north-east span-50]
+  @tweet[https://twitter.com/sidneymbell/status/1218272654710325248]
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[north-west span-100 font-montserrat text-bold text-yellow text-08]
+Contrast in culture & incentives @fa[twitter] @fperez_org
+@snapend
+
+@table[table-header table-fragment text-06 text-white](assets/fperez.csv)
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -203,34 +206,10 @@ Maybe, this is the place you're in right now
 @fab[linux fa-6x]
 @snapend
 
----?color=linear-gradient(80deg, gray 10%, black)
-@snap[north span-100]
-## The Curse of Knowledge @fab[linux]
-@snapend
-
-@snap[west span-50 text-white fragment]
-Have you used Linux before? 
-@snapend
-
-@snap[south-west span-50 fragment text-white]
-What does ``sudo`` mean?
-<img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="100">
-@snapend
-
-@snap[east span-50 fragment text-white fragment]
-Where is the ``pipe`` key on your keyboard?
-@snapend
-
-@snap[south-east span-50 fragment text-white fragment]
-What is the ``|`` key used for?
-```bash
-	ls -a | wc -l
-```
-@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-##### Why Linux: mobile, edge, cloud, & High Performance Computing are dominated by Linux & its  derivatives
+##### Mobile, Edge, Cloud, & High Performance Computing are dominated by Linux & its  derivatives
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
@@ -266,6 +245,31 @@ What is the ``|`` key used for?
 
 @snap[south-east span-33 fragment]
 @box[bg-orange text-white rounded box-padding](Con # Technical Support @fab[fa-ban fa-sm])
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+@snap[north span-100]
+## The Curse of Knowledge @fab[linux]
+@snapend
+
+@snap[west span-50 text-white fragment]
+Have you used Linux before? 
+@snapend
+
+@snap[south-west span-50 fragment text-white]
+What does ``sudo`` mean?
+<img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="100">
+@snapend
+
+@snap[east span-50 fragment text-white fragment]
+Where is the ``pipe`` key on your keyboard?
+@snapend
+
+@snap[south-east span-50 fragment text-white fragment]
+What is the ``|`` key used for?
+```bash
+	ls -a | wc -l
+```
 @snapend
 
 ---?color=gray 
@@ -354,7 +358,7 @@ image credit: www.smartsheet.com
 ### Agile 
 @snapend
 
-@snap[south-west text-04 span-50]
+@snap[north-east text-04 span-50]
 [the manifesto](https://agilemanifesto.org/)
 @snapend
 
