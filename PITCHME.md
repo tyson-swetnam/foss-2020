@@ -176,7 +176,7 @@ Open Source Software vs Academia vs Open Science
 Contrast in culture & incentives @fa[twitter] @fperez_org
 @snapend
 
-@table[table-header table-fragment text-06 text-white](assets/fperez.csv)
+@table[table-header text-06 text-white](assets/fperez.csv)
 
 @audio[admonition](assets/audio/slide13.mp3)
 
