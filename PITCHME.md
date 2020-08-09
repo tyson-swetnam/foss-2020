@@ -16,37 +16,38 @@
 @fa[quote-graphql font-montserrat text-white text-24](The Fourth Industrial Revolution)  
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide3.mp3)
 
-@snap[north-west span-33 text-06 text-white]
+@snap[north-west span-33 text-05 text-white]
 #### 1st Revolution
 Mechanization, steam and water power 
 <img src="https://media.giphy.com/media/9MIl1iPxLhfzQecFdW/giphy.gif" height="200">
 @snapend
 
-@snap[north span-33 fragment text-06 text-right text-white]
+@snap[north span-33 text-05 text-right text-white]
 #### 2nd Revolution
 Mass Production & electricity 
 <img src="https://media.giphy.com/media/fwfbJvRNHb5sI/giphy.gif" width="200">
  
 @snapend
 
-@snap[south-west span-33 fragment text-06 text-white] 
+@snap[north-east span-33 text-05 text-white] 
 #### 3rd Revolution
 Electronics, automation 
 <img src="https://media.giphy.com/media/3TcM6usOIc2MU/source.gif" height="200"> 
 @snapend
 
-@snap[south-east span-50 fragment text-06 text-white]
+@snap[south-west span-50 text-05 text-white]
 #### 4th Revolution
 Artificial Intelligence & Big Data
 <img src="https://media.giphy.com/media/3o6EhQHTomagYryfaU/giphy.gif" height="200"> 
 @snapend 
 
-@snap[south-east span-50 fragment]
+@snap[south span-50 fragment]
 <img src="https://media.giphy.com/media/f0KOVX18PHXz2/giphy.gif" height="210">
 @snapend
 
-@snap[south-east span-50 fragment]
+@snap[south span-50 fragment]
 ## 2015
 @snapend
 
@@ -59,22 +60,23 @@ Artificial Intelligence & Big Data
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide4.mp3)
 
 @snap[north span-100 text-white]
 ### What do we require to be successful?
 @snapend
 
-@snap[west span-33 fragment font-montserrat text-white]
+@snap[west span-33 font-montserrat text-white]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" width="280">
 Money? 
 @snapend
 
-@snap[midpoint span-33 fragment font-montserrat text-white]
+@snap[midpoint span-33 font-montserrat text-white]
 <img src="https://media.giphy.com/media/BmmfETghGOPrW/giphy.gif" width="280">
 Talent?
 @snapend
 
-@snap[east span-33 fragment font-montserrat text-white]
+@snap[east span-33 font-montserrat text-white]
 <img src="https://media.giphy.com/media/p3wmjAEO1UeYM/giphy.gif" width="280">
 Information?
 @snapend
@@ -85,20 +87,23 @@ Information?
 @img[span-100](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DIKW_Pyramid.svg/1200px-DIKW_Pyramid.svg.png)
 @snapend
 
-@snap[south-east span-50 text-08 fragment font-montserrat text-white] 
+@snap[south-east span-50 text-08 font-montserrat text-white] 
 @box[](Data # Unstructured, Huge, High Risk to Decision Making) 
 @snapend
 
-@snap[east span-50 text-08 fragment font-montserrat text-white] 
+@snap[east span-50 text-08 font-montserrat text-white] 
 @box[](Knowledge # Understanding, Ask Questions, Draw inferences)
 @box[](Information # Structured, Searchable, Metadata) 
 @snapend
 
-@snap[north-east span-50 text-08 fragment font-montserrat text-white] 
+@snap[north-east span-50 text-08 font-montserrat text-white] 
 @box[](Wisdom # Low Risk to Decision Making) 
 @snapend
 
+@audio[admonition](assets/audio/slide5.mp3)
+
 ---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
+@audio[admonition](assets/audio/slide6.mp3)
 
 @snap[midpoint span-100 text-center] 
 @fa[quote-graphql font-montserrat text-white text-25 fragment](And then it hit me) 
@@ -109,6 +114,7 @@ Information?
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide7.mp3)
 
 ### Work from anywhere
 
@@ -117,6 +123,7 @@ Information?
 ### Data are everywhere
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide8.mp3)
 
 @snap[north span-100 font-montserrat text-15 text-white text-bold]
 Maybe, this is the place you're in right now
@@ -149,12 +156,13 @@ Maybe, this is the place you're in right now
 # FREE YOUR ~~MIND~~ SCIENCE
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide12.mp3)
 
-@snap[north-west span-50 font-montserrat text-bold text-yellow text-15]
-Open Source vs Academia
+@snap[north-west span-50 font-montserrat text-bold text-yellow text-12]
+Open Source Software vs Academia vs Open Science
 @snapend
 
-@snap[west h3-white span-50 font-montserrat text-bold text-white text-15]
+@snap[west h3-white span-50 font-montserrat text-bold text-white text-12]
 @fa[twitter] Fernando Perez @fperez_org
 @snapend
 
@@ -170,51 +178,69 @@ Contrast in culture & incentives @fa[twitter] @fperez_org
 
 @table[table-header table-fragment text-06 text-white](assets/fperez.csv)
 
+@audio[admonition](assets/audio/slide13.mp3)
+
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide14.mp3)
 
 @snap[north span-33 text-center] 
 @fa[quote-graphql font-montserrat text-white text-16](Key @fa[key] Concepts)
 @snapend
 
-@snap[north-west span-33 fragment]
+@snap[north-west span-33 ]
 @box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
 @snapend    
  
-@snap[midpoint span-33 fragment]
+@snap[midpoint span-33 ]
 @box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
 @snapend
 
-@snap[north-east span-33 fragment]
+@snap[north-east span-33 ]
 @box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
 @snapend
 
-@snap[south-west span-33 fragment]
+@snap[south-west span-33 ]
 @box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
 @snapend
 
-@snap[south-east span-33 fragment]
+@snap[south-east span-33 ]
 @box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide15.mp3)
 
 @snap[north span-100]
 # Why Linux?
 @snapend
 
-@snap[midpoint span-100 text-white]
-@fab[linux fa-6x]
+@snap[south span-100 text-white]
+Percent of desktop and laptop users 
+@snapend
+
+@snap[west span-33 text-white]
+@fab[windows fa-2x] 87.76%
+@snapend
+
+@snap[midpoint span-33 text-white]
+@fab[apple fa-2x] 9.61%
+@snapend
+
+@snap[east span-33 text-yellow]
+@fab[ubuntu fa-2x] 2.06%
 @snapend
 
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide16.mp3)
 
-##### Mobile, Edge, Cloud, & High Performance Computing are dominated by Linux & its  derivatives
+##### Mobile, Edge, Cloud, & High Performance Computing are dominated by Linux OS distributions
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide17.mp3)
 
 @snap[north span-100 text-white]
 
@@ -223,49 +249,51 @@ Contrast in culture & incentives @fa[twitter] @fperez_org
 @fab[ubuntu fa-2x] @fab[linux fa-2x] @fab[centos fa-2x] @fab[redhat fa-2x]
 @snapend 
 
-@snap[west span-33 fragment]
-@box[bg-green text-white rounded box-padding](Pro # Availability (Open Source) & Reliability)
+@snap[west span-33]
+@box[bg-green text-white rounded box-padding](Pro # Availability & Reliability)
 @snapend
 
-@snap[south-west span-33 fragment]
+@snap[south-west span-33]
 @box[bg-orange text-white rounded box-padding](Con # Package Dependencies)
 @snapend
 
-@snap[midpoint span-33 fragment]
+@snap[midpoint span-33]
 @box[bg-green text-white rounded box-padding](Pro # Almost infinite customization)
 @snapend
 
-@snap[south span-33 fragment]
+@snap[south span-33]
 @box[bg-orange text-white rounded box-padding](Con # Almost infinite customization)
 @snapend
 
-@snap[east span-33 fragment]
+@snap[east span-33 ]
 @box[bg-green text-white rounded box-padding](Pro # Works in Windows @fab[windows fa-sm] )
 @snapend
 
-@snap[south-east span-33 fragment]
+@snap[south-east span-33 ]
 @box[bg-orange text-white rounded box-padding](Con # Technical Support @fab[fa-ban fa-sm])
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @snap[north span-100]
+@audio[admonition](assets/audio/slide18.mp3)
+
 ## The Curse of Knowledge @fab[linux]
 @snapend
 
-@snap[west span-50 text-white fragment]
+@snap[west span-50 text-white]
 Have you used Linux before? 
 @snapend
 
-@snap[south-west span-50 fragment text-white]
+@snap[south-west span-50 text-white]
 What does ``sudo`` mean?
 <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" width="100">
 @snapend
 
-@snap[east span-50 fragment text-white fragment]
+@snap[east span-50 text-white]
 Where is the ``pipe`` key on your keyboard?
 @snapend
 
-@snap[south-east span-50 fragment text-white fragment]
+@snap[south-east span-50 text-white ]
 What is the ``|`` key used for?
 ```bash
 	ls -a | wc -l
@@ -273,6 +301,7 @@ What is the ``|`` key used for?
 @snapend
 
 ---?color=gray 
+@audio[admonition](assets/audio/slide19.mp3)
 
 ####  Why Linux: the file system 
 
@@ -280,9 +309,10 @@ What is the ``|`` key used for?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-# Project Management
+## Project Management
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide21.mp3)
 
 @snap[north-west span-75]
 ### Project Management: Version Control
@@ -304,29 +334,29 @@ Fundamental to
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
-
+@audio[admonition](assets/audio/slide22.mp3)
 @snap[north list-content-verbose span-100 text-white]
 ### Strength and Weakness
 [@fab[github fa-2x]](https://github.com) [@fab[gitlab fa-2x]](https://gitlab.com)
 @snapend
 
-@snap[west list-content-verbose span-33 text-white fragment]
+@snap[west list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding](Pro # Reproducibility)
 @snapend
 
-@snap[south-west list-content-verbose span-33 text-white fragment]
+@snap[south-west list-content-verbose span-33 text-white]
 @box[bg-orange text-white rounded box-padding](Con # Difficult to understand)
 @snapend
 
-@snap[midpoint list-content-verbose span-33 text-white fragment]
+@snap[midpoint list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding](Pro # Scalability & Sharability)
 @snapend
 
-@snap[south list-content-verbose span-33 text-white fragment]
+@snap[south list-content-verbose span-33 text-white]
 @box[bg-orange text-white rounded box-padding](Con # Harder to explain)
 @snapend
 
-@snap[east list-content-verbose span-33 text-white fragment]
+@snap[east list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding span-50](Pro # [![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/awesome/awesome.png)](https://github.com/topics/awesome-list))
 @snapend 
 
@@ -336,6 +366,7 @@ https://xkcd.com/1597/
 @snapend 
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide23.mp3)
 
 @snap[north-west list-content-verbose span-60 text-white]
 ### Project Management: Waterfall vs Agile 
@@ -353,6 +384,7 @@ image credit: www.smartsheet.com
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide24.mp3)
 
 @snap[north-west list-content-verbose span-60 text-white]
 ### Agile 
@@ -384,6 +416,7 @@ the right, we value the items on the left more.
 
 
 ---?color=linear-gradient(80deg, gray 10%, white)
+@audio[admonition](assets/audio/slide25.mp3)
 
 @snap[north-west list-content-verbose span-60 text-white]
 ### Agile 
@@ -394,6 +427,7 @@ the right, we value the items on the left more.
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide26.mp3)
 
 @snap[north-west list-content-verbose span-50 text-white]
 ### Project Management: Issue Tracking
@@ -418,6 +452,7 @@ Kanban
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide27.mp3)
 
 @snap[north span-100]
 ## Project Management: Containers
@@ -436,33 +471,35 @@ Kanban
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide28.mp3)
 
 *different OS + third party software + updates/upgrades + redeployment* → 
  <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span>  
-<img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
+<img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="" -->
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
 ---?color=linear-gradient(80deg, gray 10%, black) 
+@audio[admonition](assets/audio/slide29.mp3)
 
 @snap[north span-100]
 ## Why do we use Containers?
 @snapend
 @snap[south-west span-50 text-white text-10 font-montserrat]
-@ul[fragment]
 - Dependencies turn into wicked problems 
 - Compiling software is sloooowww 
 - Reproducibility is hard across platforms 
 - Portability & Scalability
-@ulend
 @snapend
 
 @snap[south-east span-50]
 <img src="https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif" height="300">
 
 ---?image=assets/imagery/FOSS.jpeg
+@audio[admonition](assets/audio/slide30.mp3)
 
 ---?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
+@audio[admonition](assets/audio/slide31.mp3)
 @snap[north text-white]
 Don't Panic
 @snapend
@@ -474,6 +511,7 @@ Don't Panic
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide33.mp3)
 
 @snap[south span-50]
 ### Discord
@@ -506,36 +544,42 @@ Don't Panic
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide34.mp3)
 
 @snap[north span-100]
 ### Strength and Weakness
 @snapend
 
-@snap[west list-content-verbose span-33 text-white fragment]
+@snap[west list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding](Pro # Share links, files, images, code)
 @snapend
 
-@snap[south-west list-content-verbose span-33 text-white fragment]
+@snap[south-west list-content-verbose span-33 text-white]
 @box[bg-orange text-white rounded box-padding](Con # Distraction, FOMO)
 @snapend
 
-@snap[south list-content-verbose span-33 text-white fragment]
-@box[bg-orange text-white rounded box-padding](Con # ![](https://media.giphy.com/media/xT1XH27dkv6eIzSaT6/giphy.gif))
+@snap[south list-content-verbose span-33 text-white ]
+@box[bg-orange text-white rounded box-padding](Con # GIFS)
 @snapend
 
-@snap[midpoint list-content-verbose span-33 text-white fragment]
+@snap[midpoint list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding](Pro # Emojis @emoji[smile] @emoji[rainbow] @emoji[poop] @emoji[rage])
 @snapend
 
-@snap[east list-content-verbose span-33 text-white fragment]
+@snap[east list-content-verbose span-33 text-white]
 @box[bg-green text-white rounded box-padding](Pro # Informal Communication, replace email)
 @snapend 
 
-@snap[south-east list-content-verbose span-33 text-white fragment]
+@snap[south-east list-content-verbose span-33 text-white]
 @box[bg-orange text-white rounded box-padding](Con #  $$$ Paid Plans)
 @snapend 
 
+@snap[south fragment span-33]
+![](https://media.giphy.com/media/xT1XH27dkv6eIzSaT6/giphy.gif)
+@snapend
+
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide35.mp3)
 
 @snap[north-west span-100 font-montserrat text-bold text-yellow]
 ### Project Management: Science Communication
@@ -557,12 +601,13 @@ Don't Panic
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide36.mp3)
 
 @snap[west h3-white span-70]
 ### @fa[twitter] Twitter
 @snapend
 
-@snap[north-west span-66 fragment]
+@snap[north-west span-66 ]
 <img src="https://media.giphy.com/media/b3mSVYbDLvow8/giphy.gif" width=600>
 @snapend
 
@@ -571,6 +616,7 @@ Don't Panic
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide37.mp3)
 
 @snap[west h3-white span-50]
 ### @fa[twitter] The Good
@@ -589,7 +635,7 @@ Don't Panic
 @snapend
 
 @snap[south-west span-100]
-@ul[fragment text-white]
+@ul[text-white]
 - Follow other scientists
 - Share research achievements (_in real time_)
 - Reach the public (_and your program officers_)
@@ -597,6 +643,7 @@ Don't Panic
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide38.mp3)
 
 @snap[west h3-white span-70]
 ### @fa[twitter] The Good
@@ -611,6 +658,7 @@ source: https://www.sciencemag.org/news/2018/08/scientists-do-you-want-succeed-t
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide39.mp3)
 
 @snap[west h3-white span-50]
 ### @fa[twitter] The Bad
@@ -629,6 +677,7 @@ source: https://www.sciencemag.org/news/2018/08/scientists-do-you-want-succeed-t
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide40.mp3)
 
 @snap[west h3-white span-50]
 ### @fa[twitter] The Bad
@@ -647,20 +696,21 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[north span-50 text-10 text-white]
-@ul[fragment]
+@ul
 - Ignore or block strange posters
 - Report abusive and aggressive accounts
 @ulend
 @snapend
 
 @snap[south-west span-50 text-10 text-white]
-@ul[fragment]
+@ul
 - Avoid prolonged conversation
 - Large accounts retweet @ their followers
 @ulend
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide41.mp3)
 
 @snap[west h3-white span-33]
 ### @fa[twitter] The Ugly
@@ -692,6 +742,7 @@ credit: David Malki "The Terrible Sea Lion"
 ## Community Groups
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide43.mp3)
 
 @snap[north span-100 text-center text-white text-14]
 @fa[quote-graphql font-montserrat](Research Bazaar Arizona) 
@@ -709,17 +760,18 @@ credit: David Malki "The Terrible Sea Lion"
 @fab[meetup fa-sm] @fab[twitter fa-sm] @fab[stack-overflow fa-sm] 
 @snapend
 
-@snap[west fragment text-white span-33]
+@snap[west text-white span-33]
 @fa[coffee]
 @fa[quote-graphql font-montserrat text-06 text-white](Tuesday 8-10AM BSRL Building)
 @snapend
 
-@snap[east fragment text-white span-33]
+@snap[east text-white span-33]
 @fa[beer]
 @fa[quote-graphql font-montserrat text-06 text-white](Thursday 4-6PM @Gentle Bens)
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide44.mp3)
 
 [<img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">](https://carpentries.org)
 
@@ -728,6 +780,7 @@ credit: David Malki "The Terrible Sea Lion"
 ## Documentation
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide46.mp3)
 
 @snap[north-west span-100]
 ### External Documentation
@@ -752,7 +805,7 @@ credit: David Malki "The Terrible Sea Lion"
 @ulend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
-
+@audio[admonition](assets/audio/slide47.mp3)
 @snap[north-west span-100]
 ### Internal Documentation
 @snapend
@@ -781,6 +834,7 @@ Issue Tracking
 # Cyberinfrastructure
 
 ---?color=linear-gradient(80deg, black 10%, gray)
+@audio[admonition](assets/audio/slide49.mp3)
 
 ##### PRIVATE CLOUD SERVICES
 
@@ -789,13 +843,14 @@ Issue Tracking
 [<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="175">](https://cloud.google.com/)
 
 ---?color=linear-gradient(80deg, black 10%, gray)
-
+@audio[admonition](assets/audio/slide50.mp3)
 ##### PUBLIC CLOUD SERVICES
 
 [<img src="/assets/imagery/cyverse_white.png" height="175">](https://cyverse.org)
 [<img src="/assets/imagery/xsede.png" height="275">](https://portal.xsede.org/my-xsede)
 
 ---?color=linear-gradient(80deg, gray 10%, black)
+@audio[admonition](assets/audio/slide51.mp3)
 
 @snap[north-west span-50 text-white]
 [@img[span-100](https://www.xsede.org/image/layout_set_logo?img_id=1478827&t=1574800172821)](https://www.xsede.org) 
@@ -822,53 +877,22 @@ Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 @snapend
 
 ---?color=linear-gradient(80deg, black 10%, gray)
-@snap[north-west span-50]
-#### Data Management Systems </span>
-@snapend
-
-@snap[west span-33]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="100"> 
-<img src="https://warlord0blog.files.wordpress.com/2019/03/logo-postgis-1.png" height="100"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="100"> 
-@snapend
-
-@snap[north-east span-33]
-<img src="https://www.unidata.ucar.edu/images/logos/badges/badge_tds_200.jpg" height="100"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HDF_logo.svg/1200px-HDF_logo.svg.png" height="100"> 
-@snapend
-
-@snap[midpoint span-33]
-<img src="https://docs.irods.org/4.1.4/iRODS-Logo.png" height="100"> 
-@snapend
-
-@snap[south-east span-33]
-<img src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png" height="100"> 
-Clowder 
-MongoDB
-@snapend
- 
----?color=linear-gradient(80deg, black 10%, gray)
-
-#### Workflow Management Systems
-
-<img src="https://www.pngkey.com/png/full/246-2467736_the-leading-product-in-this-space-is-kubernetes.png" height="200"> 
-
----?color=linear-gradient(80deg, black 10%, gray)
+@audio[admonition](assets/audio/slide52.mp3)
 
 @snap[east span-40 text-white font-montserrat]
 @fa[quote-left quote-graphql](Why use CyVerse or XSEDE?)
 <img src="https://polomania.hu/images/designs/tn_orig/PM01180/12639.png" height="180">
 @snapend
 
-@snap[north-west span-40 fragment text-white font-montserrat]
+@snap[north-west span-40 text-white font-montserrat]
 @box[](Reason 1. Computer @fa[hourglass] and data storage cost $$$$ # Do you host web services on AWS, or data on S3?)
 @snapend
 
-@snap[south-west span-40 fragment text-white font-montserrat]
+@snap[south-west span-40 text-white font-montserrat]
 @box[](Reason 2. Location-Location-Location # Put your data in the same place that you intend to do work on them)
 @snapend
 
-@snap[south-east fragment span-40]
+@snap[south-east span-40]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
 @fa[text-06 font-montserrat](oh, & it's FREE)
 @snapend
@@ -878,6 +902,7 @@ MongoDB
 In closing
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
+@audio[admonition](assets/audio/slide54.mp3)
 
 @snap[west text-smallcaps text-white]
 Data Science 
