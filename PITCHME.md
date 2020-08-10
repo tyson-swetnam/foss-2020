@@ -4,7 +4,7 @@
 
 @snap[north span-100 text-center] 
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-@fa[quote-graphql font-montserrat text-white text-24](Foundations of Open Source Science)
+@fa[quote-graphql font-montserrat text-white text-24](Foundations of Open Science)
 @fa[quote-graphql font-montserrat text-white text-15](August, 2020)
 
 @fa[quote-graphql font-montserrat text-white text-15](Tyson L. Swetnam)
@@ -485,11 +485,14 @@ Kanban
 @snap[north span-100]
 ## Why do we use Containers?
 @snapend
+
 @snap[south-west span-50 text-white text-10 font-montserrat]
+@ul
 - Dependencies turn into wicked problems 
 - Compiling software is sloooowww 
 - Reproducibility is hard across platforms 
 - Portability & Scalability
+@ulend
 @snapend
 
 @snap[south-east span-50]
@@ -635,7 +638,7 @@ Don't Panic
 @snapend
 
 @snap[south-west span-100]
-@ul[text-white]
+@ul
 - Follow other scientists
 - Share research achievements (_in real time_)
 - Reach the public (_and your program officers_)
@@ -828,6 +831,7 @@ Issue Tracking
 - Styled Docs
 - Protocols
 @ulend
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
@@ -895,6 +899,22 @@ Sign up [XSEDE Portal Account](https://portal.xsede.org/)
 @snap[south-east span-40]
 <img src="https://media.giphy.com/media/916t1VsCg2qoo/giphy.gif" height="100">
 @fa[text-06 font-montserrat](oh, & it's FREE)
+@snapend
+
+---?color=linear-gradient(80deg, gray 10%, black)
+
+@snap[west span-50 ]
+<img src="/assets/imagery/ten_rules.png" width="1000">
+@snapend
+
+@snap[east span-50 text-white font-montserrat]
+**Sahneh & Balk et al.** _forthcoming_
+@snapend
+
+@snap[north-east span-50 text-white font-montserrat]
+@ul
+ Ten Simple Rules for Researchers Engaging in Domain-Data Science Collaborations
+ @ulend
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
