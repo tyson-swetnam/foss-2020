@@ -20,21 +20,21 @@
 
 @snap[north-west span-33 text-05 text-white]
 #### 1st Revolution
-Mechanization, steam and water power 
-<img src="https://media.giphy.com/media/9MIl1iPxLhfzQecFdW/giphy.gif" height="200">
+Mechanization, steam powered 
+<img src="https://media.giphy.com/media/3o85xsUZhI2Tsxglws/giphy.gif" height="200">
 @snapend
 
 @snap[north span-33 text-05 text-right text-white]
 #### 2nd Revolution
 Mass Production & electricity 
-<img src="https://media.giphy.com/media/fwfbJvRNHb5sI/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/2A3dXPpN6gqTGMatfY/giphy.gif" height="200">
  
 @snapend
 
 @snap[north-east span-33 text-05 text-white] 
 #### 3rd Revolution
 Electronics, automation 
-<img src="https://media.giphy.com/media/3TcM6usOIc2MU/source.gif" height="200"> 
+<img src="https://media.giphy.com/media/mXeOgQvTWweG1hODif/giphy.gif" height="200"> 
 @snapend
 
 @snap[south-west span-50 text-05 text-white]
