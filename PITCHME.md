@@ -615,7 +615,7 @@ Don't Panic
 @snapend
 
 @snap[north-east span-33]
-  @tweet[https://twitter.com/CyVerseOrg/status/1220441199321976833]
+  @tweet[https://twitter.com/tswetnam/status/1282440491053674496]
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -720,7 +720,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[north span-33]
-  @tweet[https://twitter.com/dgonzales1990/status/1223357607655636993]
+  @tweet[https://twitter.com/WilliamShatner/status/1281309576982196224]
 @snapend
 
 @snap[north-west span-33]
@@ -728,7 +728,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[north-east span-33]
-  @tweet[https://twitter.com/TishaBohr/status/1161490875085729794]
+  @tweet[https://twitter.com/Jonesieman/status/1290711223344992256]
 @snapend
 
 @snap[south span-100 fragment]
@@ -752,8 +752,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[midpoint span-100 text-center text-white text-14]
-
-<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="300">
+[<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="300">](https://researchbazaar.arizona.edu/)
 @snapend
 
 @snap[south span-100 text-center text-white text-14]
