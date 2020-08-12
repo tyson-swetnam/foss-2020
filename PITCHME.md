@@ -510,7 +510,7 @@ Don't Panic
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north-west]
-## [Project Management: Intra-group communication](https://learning.cyverse.org/projects/cyverse-foss-2020/en/latest/reproducible_science/communication.html)
+## [Project Management: Intra-group communication](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/communication.html)
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -752,7 +752,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[midpoint span-100 text-center text-white text-14]
-[<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="300">](https://researchbazaar.arizona.edu/)
+[<img src="https://pbs.twimg.com/profile_images/753651150222561280/lDw9oOzL.jpg" height="200">](https://researchbazaar.arizona.edu/)
 @snapend
 
 @snap[south span-100 text-center text-white text-14]
