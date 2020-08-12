@@ -848,8 +848,8 @@ Issue Tracking
 ##### PRIVATE CLOUD SERVICES
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" height="175">](https://aws.amazon.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/MicrosoftAzure.png" height="175">](https://azure.microsoft.com/en-us/)
-[<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Google_Cloud_Logo.svg/1024px-Google_Cloud_Logo.svg.png" height="175">](https://cloud.google.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1024px-Microsoft_Azure_Logo.svg.png" height="175">](https://azure.microsoft.com/en-us/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Google_Cloud_Logo.svg/1024px-Google_Cloud_Logo.svg.png" height="175">](https://cloud.google.com/)
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 @audio[admonition](assets/audio/slide50.mp3)
