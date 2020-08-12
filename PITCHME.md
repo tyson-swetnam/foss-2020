@@ -637,7 +637,7 @@ Don't Panic
   @tweet[https://twitter.com/feryal_ozel/status/1115975810278723584]
 @snapend
 
-@snap[south-west span-100]
+@snap[south-west span-100 font-montserrat text-bold text-white]
 @ul
 - Follow other scientists
 - Share research achievements (_in real time_)
