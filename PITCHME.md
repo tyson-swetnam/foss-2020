@@ -801,10 +801,14 @@ credit: David Malki "The Terrible Sea Lion"
 
 @snap[south-east span-50 text-white font-montserrat]
 @ul
-- [@fab[github fa-2x] Pages](https://pages.github.com/)
-- MarkDown Text Syntax
-- Render as HMTL, PDF, EPub
+- [@fab[github fa-1x] GitHub Pages](https://pages.github.com/)
+- Mark Down Syntax
+- HMTL, PDF, EPub
 @ulend
+
+@snap[north-east span-50]
+[<img src="https://jupyterbook.org/_static/logo.png" height=150>](https://jupyterbook.org/intro.html)
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @audio[admonition](assets/audio/slide47.mp3)
