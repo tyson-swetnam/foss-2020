@@ -807,7 +807,7 @@ credit: David Malki "The Terrible Sea Lion"
 @ulend
 
 @snap[north-east span-50]
-[<img src="https://jupyterbook.org/_static/logo.png" height=150>](https://jupyterbook.org/intro.html)
+[<img src="https://jupyterbook.org/_static/logo.png" height=75>](https://jupyterbook.org/intro.html)
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
