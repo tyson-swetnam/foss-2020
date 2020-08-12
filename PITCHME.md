@@ -789,9 +789,11 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[west span-50]
-[<img src="https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg" height=150>](https://readthedocs.org/)
+[<img src="https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg" height=100>](https://readthedocs.org/)
 
-[<img src="https://github.blog/wp-content/uploads/2013/08/678ae71c-ba2f-11e2-9505-4e91c63f729c.png" height=150>](http://jekyllthemes.org/) 
+[<img src="https://github.blog/wp-content/uploads/2013/08/678ae71c-ba2f-11e2-9505-4e91c63f729c.png" height=100>](http://jekyllthemes.org/) 
+
+[<img src="https://www.sphinx-doc.org/en/master/_static/sphinxheader.png" height=100>](https://www.sphinx-doc.org/en/master/)
 @snapend
 
 @snap[east span-50]
