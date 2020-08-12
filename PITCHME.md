@@ -797,7 +797,7 @@ credit: David Malki "The Terrible Sea Lion"
 @snapend
 
 @snap[east span-50]
-<img src="https://www.r-project.org/logo/Rlogo.png" height=150> 
+[<img src="https://bookdown.org/yihui/blogdown/images/logo.png" height=150>](https://bookdown.org/yihui/blogdown/)
 [<img src="https://bookdown.org/yihui/bookdown/images/logo.png" height=150>](https://bookdown.org/yihui/bookdown/)
 @snapend
 
