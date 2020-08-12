@@ -960,25 +960,25 @@ Domain Science
 ---?color=linear-gradient(80deg, gray 10%, black)
 
 @snap[north span-100 font-montserrat text-15 text-blue text-bold]
-Remember
+And Remember
 @snapend
 
 @snap[west span-33 font-montserrat text-yellow fragment text-bold text-center]
-Technology is like **milk** (you want it fresh)
-@fa[blender text-white]
+Technology is like **milk** @fa[blender text-white]
 @img[span-100](https://thumbs.gfycat.com/WholeBeautifulHackee-size_restricted.gif)
+(you want it fresh)
 @snapend
 
 @snap[midpoint span-33 font-montserrat text-pink fragment text-bold text-center]
-**Software is like** wine **(aged is a good thing)**
-@fa[wine-bottle text-pink]
-@img[span-100](https://www.esri.com/news/arcnews/summer01articles/summer01gifs/p6p1.jpg) 
+**Software is like** wine @fa[wine-bottle text-pink]
+@img[span-100](https://www.esri.com/news/arcnews/summer01articles/summer01gifs/p6p1.jpg)
+**(aged is a good thing)**
 @snapend
 
 @snap[east span-33 font-montserrat text-green fragment text-bold text-center]
-**Configurations are like** taxes **(you cannot avoid them)**
-@fa[dollar-sign text-green]
+**Configurations are like** taxes @fa[dollar-sign text-green]
 @img[span-100](https://media1.tenor.com/images/af98563d72d9a1c1500dc3bbb46a796a/tenor.gif?itemid=7272048)
+ **(you cannot avoid them)**
 @ulend
 @snapend
 
