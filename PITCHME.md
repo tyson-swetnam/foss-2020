@@ -227,7 +227,7 @@ Percent of desktop and laptop users
 @snapend
 
 @snap[east span-33 text-yellow]
-@fab[ubuntu fa-2x] 2.06%
+@fab[linux fa-2x] 2.06%
 @snapend
 
 
