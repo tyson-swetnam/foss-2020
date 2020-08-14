@@ -973,7 +973,7 @@ Technology is like **milk** @fa[blender text-white]
 (you want it fresh)
 @snapend
 
-@snap[midpoint span-33 font-montserrat text-pink fragment text-bold text-center]
+@snap[midpoint span-33 font-montserrat text-white fragment text-bold text-center]
 **Software is like** wine @fa[wine-bottle text-pink]
 @img[span-100](https://www.esri.com/news/arcnews/summer01articles/summer01gifs/p6p1.jpg)
 **(aged is a good thing)**
@@ -1004,7 +1004,9 @@ All images shown in this presentation are in the public domain or are property o
 
 ---?color=linear-gradient(80deg, black, #567AD2)
 
+@snap[midpoint span-100 font-white]
 CyVerse is funded entirely by the National Science Foundation under Award Numbers [DBI-0735191](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0735191), [DBI-1265383](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1265383), and [DBI-1743442](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743442&HistoricalAwards=false).
+@snapend
 
 @snap[south span-45]
 [@img[span-50](https://phoenixmed.arizona.edu/sites/default/files/campus/marcomm/brand/master-logo/1-ua-vertical/ua_stack_rgb_4.png)](https://www.arizona.edu/)
