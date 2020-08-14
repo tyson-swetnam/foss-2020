@@ -210,9 +210,9 @@ Contrast in culture & incentives @fa[twitter] @fperez_org
 ---?color=linear-gradient(80deg, gray 10%, black)
 @audio[admonition](assets/audio/slide15.mp3)
 
-@snap[north span-100]
-# Why Linux?
-@snapend
+@snap[north span-33 ]
+@box[bg-orange font-montserrat text-white text-11 rounded box-padding](Why Linux # @fab[linux fa-2x] @fab[ubuntu fa-2x] @fab[centos fa-2x])
+@snapend    
 
 @snap[south span-100 text-white]
 Percent of desktop and laptop users 
@@ -309,7 +309,9 @@ What is the ``|`` key used for?
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-## Project Management
+@snap[midpoint span-33 ]
+@box[bg-gray font-montserrat text-white text-11 rounded box-padding](Project Management #     @fab[docker fa-2x] @fab[confluence fa-2x] @fab[github fa-2x])
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @audio[admonition](assets/audio/slide21.mp3)
@@ -414,7 +416,6 @@ That is, while there is value in the items on
 the right, we value the items on the left more.
 @snapend
 
-
 ---?color=linear-gradient(80deg, gray 10%, white)
 @audio[admonition](assets/audio/slide25.mp3)
 
@@ -509,8 +510,8 @@ Don't Panic
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-@snap[north-west]
-## [Project Management: Intra-group communication](https://learning.cyverse.org/projects/foss-2020/en/latest/reproducible_science/communication.html)
+@snap[midpoint span-33 ]
+@box[bg-blue font-montserrat text-white text-11 rounded box-padding](Communication # @fab[slack fa-2x] @fab[twitter fa-2x] @fab[meetup fa-2x])
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
@@ -779,7 +780,9 @@ credit: David Malki "The Terrible Sea Lion"
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 
-## Documentation
+@snap[midpoint span-33 ]
+@box[bg-black font-montserrat text-white text-10 rounded box-padding](Documentation # ![](https://sphinx-rtd-theme.readthedocs.io/en/stable/_static/logo-wordmark-light.svg))
+@snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
 @audio[admonition](assets/audio/slide46.mp3)
@@ -839,8 +842,9 @@ Issue Tracking
 @snapend
 
 ---?color=linear-gradient(80deg, gray 10%, black)
-
-# Cyberinfrastructure
+@snap[midpoint span-33 ]
+@box[bg-yellow font-montserrat text-white text-11 rounded box-padding](Cyberinfrastructure # @fab[aws fa-2x] @fab[google fa-2x] @fab[windows fa-2x])
+@snapend
 
 ---?color=linear-gradient(80deg, black 10%, gray)
 @audio[admonition](assets/audio/slide49.mp3)
